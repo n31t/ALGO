@@ -1,0 +1,1406 @@
+1405 89803
+print
+insert 10461
+insert 82124
+print
+insert 37465
+print
+insert 90710
+print
+print
+insert 24320
+print
+insert 13586
+insert 24732
+insert 65384
+print
+print
+insert 82834
+print
+insert 22307
+insert 22584
+print
+print
+insert 38980
+insert 51956
+insert 51793
+print
+print
+insert 72585
+print
+insert 70392
+insert 45923
+insert 15167
+print
+print
+insert 24787
+insert 9054
+insert 97490
+print
+insert 68235
+insert 71731
+print
+insert 32752
+print
+print
+print
+print
+print
+print
+insert 59530
+insert 61435
+print
+print
+insert 53396
+print
+insert 91943
+insert 86042
+insert 99661
+print
+print
+print
+print
+insert 22945
+print
+insert 69464
+insert 46774
+insert 91601
+insert 80529
+print
+insert 43588
+insert 60560
+insert 2706
+print
+insert 86558
+insert 59004
+insert 89553
+print
+insert 79538
+print
+print
+insert 64690
+print
+insert 56980
+insert 69777
+print
+print
+print
+print
+print
+insert 89080
+insert 85535
+print
+insert 4595
+insert 35019
+insert 83923
+insert 90061
+insert 74996
+print
+print
+insert 9669
+insert 94390
+print
+print
+print
+insert 67623
+print
+insert 37850
+print
+print
+print
+insert 90200
+print
+print
+print
+print
+insert 42231
+print
+insert 52604
+print
+print
+print
+print
+print
+print
+print
+insert 13772
+print
+insert 18508
+insert 95063
+insert 43834
+insert 921
+insert 65512
+insert 13707
+insert 19860
+insert 77271
+print
+insert 36505
+print
+insert 94321
+print
+insert 20280
+insert 35324
+insert 26089
+print
+print
+print
+insert 4478
+print
+insert 18985
+insert 824
+insert 95489
+print
+print
+insert 92305
+insert 1862
+print
+print
+insert 51519
+insert 23969
+insert 49766
+insert 98765
+print
+print
+print
+insert 89005
+print
+print
+print
+print
+insert 9149
+insert 1799
+print
+insert 36980
+print
+insert 38974
+insert 87201
+insert 29770
+print
+print
+insert 37835
+insert 13477
+insert 69472
+print
+insert 86850
+insert 24419
+print
+print
+print
+print
+insert 58543
+print
+print
+print
+insert 52184
+print
+print
+print
+insert 52854
+insert 90482
+insert 23632
+print
+insert 44605
+print
+print
+insert 52667
+insert 72774
+print
+insert 68896
+print
+insert 55002
+insert 49173
+insert 26646
+print
+insert 4819
+insert 64822
+print
+print
+print
+print
+insert 74920
+insert 92058
+print
+print
+insert 31963
+insert 41513
+print
+print
+print
+insert 41316
+print
+insert 12672
+insert 3516
+print
+insert 73312
+insert 42772
+print
+insert 18459
+insert 56978
+print
+print
+insert 95134
+print
+insert 8860
+insert 7685
+insert 22924
+print
+insert 88930
+insert 61400
+insert 29911
+print
+insert 26394
+print
+print
+insert 17831
+insert 59812
+insert 28198
+print
+print
+insert 90124
+insert 90806
+insert 95494
+print
+print
+insert 57086
+print
+insert 7494
+insert 59597
+print
+insert 5862
+print
+print
+print
+print
+print
+insert 7501
+insert 24480
+insert 83858
+insert 76065
+print
+print
+insert 74404
+insert 24727
+print
+print
+insert 19020
+print
+print
+print
+insert 98694
+print
+print
+print
+print
+print
+print
+insert 93111
+print
+insert 18525
+insert 14124
+insert 93747
+insert 30542
+insert 43115
+insert 47831
+insert 13758
+print
+print
+print
+print
+insert 75644
+print
+print
+insert 7811
+print
+print
+insert 61183
+insert 51154
+print
+print
+insert 51992
+insert 46595
+print
+print
+print
+insert 97566
+insert 67364
+print
+print
+print
+print
+print
+print
+insert 53318
+print
+insert 49376
+insert 24964
+insert 99895
+print
+print
+insert 54147
+print
+insert 81491
+print
+insert 43913
+print
+insert 24380
+insert 1441
+print
+insert 46339
+print
+print
+insert 18144
+insert 93685
+insert 92042
+insert 94755
+print
+print
+print
+print
+print
+print
+insert 98700
+insert 4532
+insert 65517
+insert 37518
+print
+print
+insert 22577
+print
+print
+insert 16540
+print
+print
+print
+print
+print
+insert 99124
+print
+print
+insert 93129
+print
+print
+insert 16283
+insert 33431
+insert 21335
+insert 56829
+insert 47987
+print
+insert 2090
+print
+insert 93891
+insert 78697
+print
+insert 37561
+print
+print
+print
+insert 64389
+print
+insert 57517
+print
+insert 92248
+insert 34653
+insert 79677
+print
+print
+print
+insert 75524
+print
+print
+print
+insert 20670
+print
+print
+print
+insert 78571
+print
+insert 79329
+print
+insert 23579
+print
+print
+print
+insert 35484
+print
+print
+insert 68216
+print
+insert 79401
+insert 62677
+insert 20950
+print
+insert 20383
+insert 69449
+insert 8146
+insert 12440
+print
+print
+insert 36831
+insert 68188
+insert 2494
+insert 64623
+print
+insert 58899
+insert 70768
+print
+print
+insert 2046
+print
+print
+insert 62211
+insert 1480
+print
+insert 48299
+insert 51969
+insert 26732
+insert 72259
+print
+print
+insert 78040
+print
+insert 86584
+print
+print
+insert 70527
+insert 48312
+print
+print
+insert 41270
+print
+print
+insert 64613
+insert 51784
+insert 991
+insert 19767
+insert 58015
+insert 13553
+print
+insert 56756
+insert 49674
+print
+print
+print
+insert 2268
+print
+print
+insert 18187
+insert 87243
+insert 53350
+print
+insert 72386
+insert 58427
+insert 43546
+insert 3406
+insert 17543
+print
+insert 14343
+insert 38367
+print
+insert 56888
+print
+insert 44401
+print
+insert 97433
+insert 52346
+insert 15212
+insert 3974
+insert 1993
+print
+print
+print
+insert 61879
+print
+print
+insert 53841
+print
+print
+print
+print
+print
+print
+insert 9988
+insert 84695
+insert 19102
+insert 68175
+print
+print
+insert 69472
+insert 54179
+print
+insert 61058
+print
+print
+print
+print
+print
+insert 61418
+print
+insert 59800
+print
+insert 87097
+insert 85143
+insert 41893
+print
+insert 6440
+insert 38194
+insert 72239
+print
+print
+insert 16772
+print
+insert 5819
+print
+insert 90003
+insert 35460
+insert 39845
+insert 46080
+print
+insert 61423
+print
+print
+insert 23044
+print
+insert 323
+insert 8586
+insert 28225
+insert 49431
+print
+print
+insert 84305
+insert 60382
+insert 6097
+insert 9083
+insert 70712
+print
+print
+print
+print
+print
+print
+print
+print
+insert 5773
+insert 96382
+print
+print
+print
+print
+insert 6968
+print
+insert 97690
+insert 30803
+insert 49043
+insert 47278
+insert 53398
+insert 22835
+insert 64218
+print
+print
+insert 88654
+print
+print
+print
+print
+insert 67472
+insert 49060
+insert 3576
+print
+print
+insert 38517
+print
+print
+print
+insert 80091
+insert 76085
+insert 12043
+insert 38699
+insert 22390
+print
+insert 45617
+insert 30691
+print
+print
+print
+insert 44584
+insert 83670
+insert 66213
+insert 78436
+insert 30556
+insert 6944
+insert 17305
+insert 73933
+insert 64398
+print
+print
+insert 85185
+insert 68974
+insert 84959
+insert 81928
+print
+insert 82537
+print
+print
+insert 16736
+insert 46315
+print
+insert 54914
+print
+print
+insert 22086
+insert 65245
+print
+print
+insert 25739
+print
+print
+print
+print
+print
+print
+print
+insert 54526
+print
+print
+insert 52681
+print
+insert 19592
+print
+insert 88751
+insert 72087
+print
+insert 89772
+insert 39809
+print
+insert 755
+insert 9477
+insert 80067
+print
+insert 56891
+print
+insert 8710
+print
+insert 12636
+insert 81465
+insert 11993
+insert 26764
+insert 12304
+print
+print
+insert 70763
+insert 31392
+print
+insert 3821
+insert 21030
+print
+print
+insert 95498
+insert 67722
+insert 21691
+print
+insert 33176
+insert 21812
+insert 423
+insert 1598
+print
+insert 72943
+print
+insert 40119
+print
+print
+insert 39284
+print
+insert 49101
+insert 9493
+print
+print
+insert 13250
+insert 26439
+insert 56630
+print
+print
+print
+insert 82757
+print
+print
+insert 60739
+insert 91862
+insert 34585
+insert 42274
+insert 24353
+print
+insert 36901
+print
+print
+print
+print
+print
+insert 94808
+insert 94172
+print
+print
+insert 3080
+print
+print
+insert 23957
+insert 44481
+insert 87517
+insert 96165
+insert 68324
+insert 56061
+insert 52701
+insert 37720
+print
+insert 74976
+insert 516
+print
+print
+print
+print
+insert 73063
+insert 35449
+print
+print
+insert 95877
+insert 59604
+insert 57172
+print
+insert 87889
+insert 78490
+print
+insert 31190
+insert 15367
+insert 2995
+print
+print
+insert 2415
+insert 56858
+print
+print
+insert 22471
+print
+insert 33887
+insert 35379
+insert 2357
+insert 52099
+print
+insert 56342
+print
+print
+insert 16964
+insert 27790
+insert 72781
+insert 44622
+insert 4932
+print
+print
+print
+print
+print
+print
+print
+print
+insert 58147
+insert 22368
+insert 63772
+insert 5175
+insert 14025
+insert 95210
+print
+print
+print
+insert 66718
+print
+insert 41724
+insert 24331
+print
+insert 79285
+print
+print
+print
+print
+print
+print
+print
+insert 86002
+insert 58497
+print
+print
+print
+print
+print
+insert 84672
+print
+print
+print
+insert 48178
+print
+insert 77393
+insert 44254
+print
+insert 43755
+insert 27254
+print
+insert 58176
+insert 57502
+print
+print
+insert 22098
+insert 7838
+insert 65196
+print
+insert 66219
+print
+insert 54511
+print
+print
+print
+insert 74332
+print
+print
+insert 92522
+print
+print
+print
+insert 2505
+insert 56111
+insert 57903
+print
+print
+insert 89476
+print
+print
+print
+print
+insert 37244
+print
+print
+insert 40355
+insert 4351
+insert 74867
+print
+print
+insert 98494
+print
+print
+insert 9780
+print
+print
+insert 43424
+print
+print
+print
+insert 20976
+print
+print
+print
+print
+insert 21700
+print
+print
+print
+insert 96330
+print
+print
+insert 41987
+print
+print
+insert 44954
+print
+print
+print
+print
+insert 36579
+print
+insert 68079
+print
+insert 94594
+print
+insert 13758
+print
+print
+print
+print
+print
+insert 50626
+insert 69414
+print
+print
+print
+print
+insert 37890
+insert 45182
+print
+print
+print
+insert 25133
+print
+print
+print
+print
+insert 31998
+print
+print
+insert 64541
+insert 62186
+print
+insert 41801
+print
+insert 11263
+print
+insert 44957
+print
+print
+insert 43979
+print
+insert 49563
+print
+print
+print
+print
+insert 48979
+print
+print
+insert 26969
+insert 28775
+print
+print
+print
+print
+insert 8437
+print
+print
+print
+print
+print
+print
+insert 72759
+print
+insert 54875
+insert 11594
+print
+print
+insert 1455
+insert 70690
+print
+insert 70059
+print
+print
+insert 40317
+print
+insert 31978
+print
+insert 61056
+print
+print
+print
+print
+print
+insert 43368
+print
+print
+insert 68375
+insert 71853
+print
+print
+print
+insert 52986
+insert 44279
+insert 38476
+insert 45417
+print
+insert 3656
+insert 49554
+insert 95469
+print
+insert 10073
+print
+insert 66372
+insert 73475
+insert 61286
+print
+print
+insert 28241
+print
+insert 90998
+insert 19601
+insert 77992
+print
+print
+insert 46775
+print
+insert 63996
+insert 42233
+insert 85644
+insert 78601
+print
+print
+insert 51982
+print
+insert 92953
+print
+insert 1260
+print
+print
+insert 47800
+insert 37438
+insert 78543
+insert 97660
+print
+insert 76568
+insert 29087
+insert 27740
+print
+print
+print
+print
+print
+print
+insert 85709
+insert 16269
+print
+insert 74021
+print
+print
+print
+insert 95914
+insert 49291
+print
+print
+print
+print
+print
+insert 90604
+insert 11955
+print
+print
+print
+insert 26177
+print
+insert 18191
+insert 61792
+insert 35263
+print
+insert 58011
+print
+insert 74267
+insert 87401
+insert 57588
+insert 63802
+insert 21980
+insert 21118
+print
+print
+insert 31052
+print
+insert 11307
+print
+insert 96258
+insert 30217
+insert 65745
+print
+insert 53770
+print
+insert 70455
+print
+print
+insert 6993
+insert 76297
+insert 24106
+insert 73772
+print
+insert 69542
+insert 56437
+print
+print
+print
+print
+insert 42261
+insert 65538
+insert 49603
+print
+print
+insert 82379
+insert 74623
+insert 90998
+insert 50694
+print
+insert 63549
+insert 10709
+insert 38620
+insert 3882
+print
+print
+insert 49265
+print
+insert 53510
+print
+insert 71622
+insert 91296
+insert 10746
+print
+insert 56327
+print
+print
+insert 55888
+insert 8441
+print
+print
+insert 3495
+insert 65814
+print
+print
+insert 34061
+insert 76389
+print
+insert 60768
+insert 98153
+print
+print
+insert 66130
+print
+insert 49548
+print
+print
+insert 90159
+insert 49688
+print
+print
+insert 8908
+print
+print
+print
+print
+insert 50933
+print
+print
+print
+insert 62150
+insert 5615
+insert 82187
+print
+print
+insert 92407
+print
+print
+insert 38707
+print
+insert 70514
+insert 22302
+insert 52545
+print
+print
+print
+insert 72817
+insert 71350
+insert 46055
+insert 25661
+insert 77469
+print
+insert 76007
+print
+insert 42971
+insert 65326
+print
+print
+insert 77087
+insert 43896
+insert 5635
+print
+insert 25573
+print
+print
+insert 51378
+insert 51909
+print
+insert 87714
+print
+insert 93891
+print
+print
+print
+print
+insert 77209
+insert 73282
+insert 95788
+print
+insert 27219
+insert 88014
+print
+print
+print
+insert 57177
+print
+print
+insert 37595
+insert 32776
+insert 75383
+insert 59773
+print
+insert 19877
+insert 26049
+print
+insert 30332
+insert 86685
+insert 12272
+print
+insert 10990
+insert 83349
+insert 21046
+insert 46784
+print
+insert 88044
+print
+print
+print
+insert 27876
+print
+print
+insert 81930
+print
+print
+insert 54495
+print
+insert 20790
+print
+print
+insert 90363
+insert 77929
+insert 2010
+insert 41770
+print
+print
+insert 72499
+insert 57130
+print
+print
+print
+insert 8043
+print
+insert 26112
+insert 68264
+insert 52044
+insert 7783
+insert 15857
+print
+print
+print
+insert 27965
+print
+insert 23218
+insert 50572
+insert 61755
+insert 88956
+insert 52117
+insert 4584
+insert 52884
+print
+print
+print
+insert 85287
+insert 54641
+insert 4910
+insert 24146
+insert 59562
+print
+insert 15244
+print
+print
+print
+insert 94790
+print
+insert 55366
+insert 88953
+insert 58851
+insert 44027
+insert 27832
+insert 7080
+print
+insert 79438
+insert 2875
+print
+print
+print
+print
+print
+print
+insert 39166
+print
+insert 10333
+insert 92157
+print
+print
+insert 17900
+print
+print
+insert 77318
+insert 69035
+insert 46791
+insert 44692
+insert 13027
+print
+insert 38500
+insert 54022
+insert 826
+insert 14261
+print
+insert 16894
+print
+print
+insert 409
+print
+insert 1140
+print
+insert 23457
+print
+print
+print
+insert 8957
+print
+print
+insert 69311
+insert 93686
+insert 33231
+print
+print
+insert 81223
+print
+insert 26414
+insert 30695
+print
+insert 53361
+print
+print
+print
+insert 90760
+print
+insert 30719
+insert 57285
+print
+insert 60309
+print
+insert 68792
+insert 65232
+insert 13268
+insert 31213
+insert 36287
+print
+insert 51948
+print
+insert 92347
+print
+insert 93607
+print
+print
+print
+insert 31704
+print
+print
+insert 48237
+insert 97759
+print
+print
+insert 69322
+insert 73056
+insert 59688
+insert 30987
+insert 93650
